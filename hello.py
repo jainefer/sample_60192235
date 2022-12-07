@@ -1,1 +1,1 @@
-print('hello')
+print('메인으로 바꿈')
